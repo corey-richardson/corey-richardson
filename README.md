@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at an aerospace company as a Year In Industry Student supporting the Navigation team!
-- 🌱 I’m currently learning C++ and taking CS50X.
+- 🌱 I’m currently learning C and taking CS50X.
 - 📫 How to reach me: [here](https://linktr.ee/coreyrichardson)
 - ⚡ Fun fact: Recently finished CS50P :)
 <!-- - 😄 Pronouns: ... -->
