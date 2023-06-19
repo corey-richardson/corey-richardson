@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✈️ I’m currently working at an aerospace company as a Year In Industry Placement Student!
+- ✈️ I’m currently working at an aerospace company as an Industrial Placement Student!
 - 📖 I'll begin a Computer Science (Software Engineering) degree course at the University of Plymouth in September
 - 🌱 To see what I'm currently learning, view my [learning repository](https://github.com/corey-richardson/learning)
 - 🌳 See my linktree [here](https://linktr.ee/coreyrichardson)
