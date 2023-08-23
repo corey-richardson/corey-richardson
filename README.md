@@ -7,6 +7,6 @@
 - 🏹 Fun fact: I am a Compound Archer :)
 <!-- - 😄 Pronouns: ... -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corey-richardson&exclude_repo=yelverton-bowmen,yelverton-bowmen-scoreboard,flask-projects,course-progress-tracker,archery-linear-regression&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corey-richardson&exclude_repo=yelverton-bowmen,yelverton-bowmen-scoreboard,course-progress-tracker,archery-linear-regression&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- &layout=compact --!>
