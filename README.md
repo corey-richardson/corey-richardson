@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corey-richardson&exclude_repo=yelverton-bowmen,yelverton-bowmen-scoreboard,course-progress-tracker,archery-linear-regression&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coreyrichardson)
+[![wakatime](https://wakatime.com/badge/user/55c30436-1509-4eb9-9f18-fa9b7c6060c4.svg)](https://wakatime.com/@55c30436-1509-4eb9-9f18-fa9b7c6060c4)
 
 
 <!-- &layout=compact --!>
