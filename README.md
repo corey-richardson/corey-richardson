@@ -7,7 +7,7 @@
 - 🏹 Fun fact: I am a Compound Archer :)
 <!-- - 😄 Pronouns: ... -->
 
-![](https://wakatime.com/share/@coreyrichardson/f215ccbb-d53b-4186-81ae-d35f43c226c5.svg)
+![](https://wakatime.com/share/@coreyrichardson/f280cdfe-dcfc-4b1a-ad64-8177cbf22216.svg)
 [![wakatime](https://wakatime.com/badge/user/55c30436-1509-4eb9-9f18-fa9b7c6060c4.svg)](https://wakatime.com/@55c30436-1509-4eb9-9f18-fa9b7c6060c4)
 
 
