@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- ✈️ I’m currently working at an aerospace company as an Industrial Placement Student!
-- 📖 I'll begin a Computer Science (Software Engineering) degree course at the University of Plymouth in September
-- 🌱 To see what I'm currently learning, view my [learning repository](https://github.com/corey-richardson/learning)
+- ✈️ I am a Sponsored Student at Collins Aerospace
+- 📖 BSc Computer Science (Software Engineering) Student at University of Plymouth
+<!-- - 🌱 To see what I'm currently learning, view my [learning repository](https://github.com/corey-richardson/learning) -->
 - 🌳 See my linktree [here](https://linktr.ee/coreyrichardson)
 - 🏹 Fun fact: I am a Compound Archer :)
 <!-- - 😄 Pronouns: ... -->
