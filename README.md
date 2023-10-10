@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ✈️ I am a Sponsored Student at Collins Aerospace
 - 📖 BSc Computer Science (Software Engineering) Student at University of Plymouth
+- ✈️ I am a Sponsored Student at Collins Aerospace
 - 🌳 See my linktree [here](https://linktr.ee/coreyrichardson)
 - 🏹 Fun fact: I am a Compound Archer :)
 <!-- - 😄 Pronouns: ... -->
