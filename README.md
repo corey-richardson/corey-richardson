@@ -7,8 +7,8 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - 🌱 To see what I'm currently learning, view my [learning repository](https://github.com/corey-richardson/learning) -->
 
-![](https://wakatime.com/share/@coreyrichardson/f818933f-b6c5-4e50-8730-ec6909335705.svg)
-[![wakatime](https://wakatime.com/badge/user/55c30436-1509-4eb9-9f18-fa9b7c6060c4.svg)](https://wakatime.com/@55c30436-1509-4eb9-9f18-fa9b7c6060c4)
+[![](https://wakatime.com/share/@coreyrichardson/f818933f-b6c5-4e50-8730-ec6909335705.svg)](https://wakatime.com/@coreyrichardson)
+[![wakatime](https://wakatime.com/badge/user/55c30436-1509-4eb9-9f18-fa9b7c6060c4.svg)](https://wakatime.com/@coreyrichardson)
 
 
 <!-- &layout=compact --!>
