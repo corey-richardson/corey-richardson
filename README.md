@@ -4,7 +4,7 @@
 - ✈️ I am a Sponsored Student at Collins Aerospace
 - 🌳 See my linktree [here](https://linktr.ee/coreyrichardson)
 - 🏹 Fun fact: I am a Compound Archer :)
-- 🌱 I'm currently learning C++ Unit Testing using Google Test and Google Mock
+- 🌱 I'm currently learning Databases with SQL from [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/) course. 
 <!-- - 😄 Pronouns: ... -->
 
 <!-- &hide=markdown -->
