@@ -4,7 +4,7 @@
 - ✈️ I am a Sponsored Student at Collins Aerospace
 - 🌳 See my linktree [here](https://linktr.ee/coreyrichardson)
 - 🏹 Fun fact: I am a Compound Archer :)
-- 🌱 I'm currently learning Databases with SQL from [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/) course. 
+- 🌱 I'm currently learning Databases with SQL from [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/) course, and taking University of Plymouth's modules COMP2000, COMP2001 and COMP2003. 
 <!-- - 😄 Pronouns: ... -->
 
 <!-- &hide=markdown -->
