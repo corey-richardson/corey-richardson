@@ -4,7 +4,7 @@
 - ✈️ I am a Sponsored Student at Collins Aerospace
 - 🌳 See my linktree [here](https://linktr.ee/coreyrichardson)
 - 🏹 Fun fact: I am a Compound Archer :)
-- 🌱 I'm currently taking the University of Plymouth's modules COMP2000 Software Engineering II, COMP2001 Information Management and Retrieval and COMP2003 Computing Group Project. 
+- 🌱 I'm currently taking the University of Plymouth's modules COMP2002 Artificial Intelligence, COMP2005 Software Development Tools and Practices and COMP2003 Computing Group Project. 
 <!-- - 😄 Pronouns: ... -->
 
 <!-- &hide=markdown -->
