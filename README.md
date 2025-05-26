@@ -25,6 +25,6 @@
 <br>
 <div align="center">
   <a href="https://wakatime.com/@coreyrichardson">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coreyrichardson&layout=compact&theme=omni&langs_count=10&hide=other,wordpress" width="85%">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coreyrichardson&layout=compact&theme=omni&langs_count=10&hide=markdown,other,wordpress" width="85%">
   </a>
 </div>
