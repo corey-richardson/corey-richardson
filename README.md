@@ -5,7 +5,7 @@
 - 🌳 See my linktree [here](https://linktr.ee/coreyrichardson)
 - 🏹 Fun fact: I am a Compound Archer :)
 - 🌱 I'm currently on Summer Placement
-<!--  taking the University of Plymouth's modules COMP2002 Artificial Intelligence, COMP2005 Software Development Tools and Practices and COMP2003 Computing Group Project.  -->
+<!--  taking the University of Plymouth's modules COMP3000, COMP3006 and COMP3016.  -->
 
 <!-- - 😄 Pronouns: ... -->
 
