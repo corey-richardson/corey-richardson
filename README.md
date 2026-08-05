@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 📖 BSc Computer Science (Software Engineering) Student at University of Plymouth
-- ✈️ I am a Sponsored Student at Collins Aerospace
+- 📖 BSc Computer Science (Software Engineering) 1st Class Honours, University of Plymouth
+- ✈️ I am a Graduate Systems Engineer at Collins Aerospace
 - 🌳 See my linktree [here](https://linktr.ee/coreyrichardson)
 - 🏹 Fun fact: I am a Compound Archer :)
-- 🌱 I'm currently taking the University of Plymouth's modules COMP3000, COMP3007 and COMP3008.
+<!-- - 🌱 I'm currently taking the University of Plymouth's modules COMP3000, COMP3007 and COMP3008. -->
 <!--    -->
 
 <!-- - 😄 Pronouns: ... -->
